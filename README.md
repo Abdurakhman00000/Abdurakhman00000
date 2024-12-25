@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdurakhman
 - 👀 I’m interested in WEB
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate
 - ⚡ Fun fact: I love drawing cars. I love design and hacking!
 
