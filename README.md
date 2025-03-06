@@ -107,7 +107,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-профиль-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a> -
   <a href="https://github.com/Abdurakhman00000" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-devAlen01-black?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Abdurakhman00000-black?style=for-the-badge&logo=github" alt="GitHub">
   </a> -
   <a href="https://wa.me/+996555119981" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
