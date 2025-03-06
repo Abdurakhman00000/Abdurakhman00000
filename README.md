@@ -1,5 +1,5 @@
-<a href="https://github.com/Elkhan2003">
-<img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Hi+I+am+Jumadil;and+I+am+Frontend+Developer&duration=2500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
+<a href="https://github.com/Abdurakhman00000">
+<img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Hi+I+am+Agusha;and+I+am+Frontend+Developer&duration=2500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
 </a>
 
 <div style="font-size: 2rem; color: #3498db; animation: fadeIn 2s ease-out;">
@@ -95,45 +95,27 @@
 ## My GitHub Stats
 
 <div style="display: flex">
-<img width=400  src='https://github-readme-stats.vercel.app/api?username=rahmanovdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=rahmanovdev&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanovdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
-</div>
-
-
-## Projects
-
-### 1. [Проект 1](https://github.com/your-username/project1)
-<div style="animation: fadeIn 2s ease-out;">
-  Краткое описание первого проекта.
-</div>
-
-### 2. [Проект 2](https://github.com/your-username/project2)
-<div style="animation: fadeIn 2s ease-out 0.5s;">
-  Краткое описание второго проекта.
-</div>
-
-### 3. [Проект 3](https://github.com/your-username/project3)
-<div style="animation: fadeIn 2s ease-out 1s;">
-  Краткое описание третьего проекта.
+<img width=400  src='https://github-readme-stats.vercel.app/api?username=Abdurakhman00000&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Abdurakhman00000&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurakhman00000&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 </div>
 
 ## 📫 Contact Me
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-  <a href="https://linkedin.com/in/Jumadil Rahmonov" target="_blank">
+  <a href="https://www.linkedin.com/in/abdurakhman-abdibaitov-b661a62b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-профиль-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a> -
-  <a href="https://github.rahmanovdev" target="_blank">
+  <a href="https://github.com/Abdurakhman00000" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-devAlen01-black?style=for-the-badge&logo=github" alt="GitHub">
   </a> -
-  <a href="https://wa.me/+996700188251" target="_blank">
+  <a href="https://wa.me/+996555119981" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   </a> -
-  <a href="https://t.me/jumadil" target="_blank">
+  <a href="https://t.me/abdurahmandev" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" alt="Telegram">
   </a> -
-  <a href="https://www.instagram.com/jumadil__kgz/" target="_blank">
+  <a href="https://www.instagram.com/agushaaa005/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
 </div>
